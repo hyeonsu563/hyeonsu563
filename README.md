@@ -12,3 +12,4 @@
   - PHP 학습용 익명 게시판
 - [SpringBootStudy](https://github.com/hyeonsu563/SpringBootStudy) (개인프로젝트 & 학습용)
   - Springboot + Jpa 학습용 게시판
+- 그외에도 꾸준히 웹프로그래밍을 공부하고 있습니다.
